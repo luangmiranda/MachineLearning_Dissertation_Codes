@@ -2,7 +2,8 @@
 # Dissertação de Mestrado: Detecção de Anomalias em Redes Utilizando Autoencoders
 
 Neste projeto são apresentados os códigos desenvolvidos no desenvolvimento da Dissertação apresentada no curso de Mestrado em Engenharia da Informação da UFABC.
-A dissertação completa pode ser encontrada no seguinte link: http://biblioteca.ufabc.edu.br/index.php?codigo_sophia=127540 
+A dissertação completa pode ser encontrada no seguinte link:
+http://biblioteca.ufabc.edu.br/index.php?codigo_sophia=127540 
 
 ## Resumo
 
